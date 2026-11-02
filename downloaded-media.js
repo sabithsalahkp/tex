@@ -1,0 +1,1 @@
+window.ANAAKA_DOWNLOADED_MEDIA = {};
